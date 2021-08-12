@@ -4,7 +4,9 @@
 分享一些相关的好的教程，是我学习期间用到的，大家可以选择性的阅读。不是推广
 视频
 主体部分：https://www.bilibili.com/video/BV137411B7vB
+
 数据库JDBC连接：https://www.bilibili.com/video/BV1gt411G7Di?p=1
+
 其它文章
 如何运行一个vue：https://segmentfault.com/a/1190000012239934
 IDEA中用maven：https://www.cnblogs.com/dadian/p/11938707.html
