@@ -25,3 +25,5 @@ vuex：https://www.jianshu.com/p/a804606ad8e9
 
 https://segmentfault.com/a/1190000023843628
 
+
+前端的module部分文件夹被分离，解压后放入vue前端src同级目录下
